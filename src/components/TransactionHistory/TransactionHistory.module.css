@@ -1,0 +1,14 @@
+.table{
+    table-layout: fixed;
+    width: 400px;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+.tr:nth-child(even) {
+    background-color: #cac8c8f1;
+  }
+
+.th{
+    border: 1px solid black
+}
