@@ -5,6 +5,10 @@
     border: 3px solid black;
 }
 
+.thead{
+    color: white;
+    background-color: rgb(66, 64, 64);
+}
 .tr:nth-child(even) {
     background-color: #cac8c8f1;
   }
